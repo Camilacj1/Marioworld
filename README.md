@@ -7,5 +7,6 @@ The Nintendo Switch names and logos are a trademark of Nintendo. This repository
 REFERÊNCIAS
 
 Wikipédia
+
 Mariowiki
 
